@@ -1,0 +1,10 @@
+PROB        TIME (s)    MST WEIGHT  TOUR LEN    OPT TOUR    RATIO
+berlin52     0.0009     6078        10888       7542        1.44
+eil101       0.0028     551         903         629         1.43
+tsp225       0.0056     3462        5572        3861        1.44
+a280         0.0078     2434        3943        2579        1.52
+pr1002       0.0837     224179      358508      259045      1.38
+d18512      33.1916     592998      906418      645238      1.40
+
+Obs: Testes realizados em uma máquina Intel Core2Duo 2.10GHz x 2
+     com 3GB de Memória RAM com sistema Ubuntu 16.04 64 bits.
